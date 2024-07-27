@@ -9,7 +9,7 @@ This is a simple CRUD (_Create, Read, Update, Delete_) application built using P
 - **Update**: Edit user details using a modal form with pre-filled data.
 - **Delete**: Remove users with confirmation prompts.
 - **AJAX**: Asynchronous operations for seamless user experience without page reloads.
-- - **Form Validation**: Client-side validation for form inputs to ensure data integrity.
+- **Form Validation**: Client-side validation for form inputs to ensure data integrity.
 
 
 ## Teachnology Used
